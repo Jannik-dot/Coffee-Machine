@@ -1,4 +1,5 @@
 # Coffee-Machine
+My second java project!
 This is the source code for a coffee machine that has the following features:
 - it can run continously
 - it can sell coffee
